@@ -12,7 +12,8 @@ Employee-Engagement-Survey Response-
 
 
 Employee-Engagement-Survey Summary Report-
-![image]()
+![image](https://github.com/Ashish-23168/Employee-Engagement-Survey-/blob/main/Employee_Engagement_Survey%20Summary%20Report%20Image.png?raw=true)
+
 
 
 Instruction:-
